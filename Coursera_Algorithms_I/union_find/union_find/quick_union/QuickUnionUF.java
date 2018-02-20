@@ -4,6 +4,11 @@ package union_find.quick_union;
  * Cousera Algorithms part 1
  * Union-Find
  * 
+ * Times of processing
+ * initialize     |  Union          | find
+ * ------------------------------------------------
+ * lengthOfArray  |  lengthOfArray  | lengthOfArray 
+ * 
  * @author magcarnota
  *
  */
